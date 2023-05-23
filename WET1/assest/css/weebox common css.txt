@@ -1,0 +1,144 @@
+.wb-noti-color {
+	color: #25afa2;
+}
+
+.testPG-bg-clr{
+	background-color:#F5F5F5 !important;
+}
+
+    .btn-green{
+      background-color:#1dbf73;
+      color: white;
+      min-width: 120px;
+      outline:none;
+      
+     }
+     
+     
+       .rm-focus:focus {
+	outline: none;
+	}      
+      
+
+     .btn-tran{
+      background-color:transparent;
+      color: black;
+      min-width: 120px;
+      border: black 1px solid;
+      min-height: 20px;
+      padding: 9px 16px;
+      text-align: center;
+      outline:none;
+     } 
+     
+     
+     .btn-tran-wht{
+    background-color: transparent;
+    color: white;
+    min-width: 120px;
+    border: #ffffff 1px solid;
+    min-height: 20px;
+    padding: 9px 16px;
+    text-align: center;
+    outline:none;
+    }
+     
+.teal-clr{
+	color: teal;
+}
+
+.btm-bdr-gray{
+border-bottom: .1em solid #d4d0d0;
+}
+
+.wb-bg-clr{
+ background-color: #f7f7f7;
+}
+
+.rnd-input{
+	border-radius: 19px;
+}
+
+.orange-txt-clr{
+	color:#e96229;
+}
+
+.gray-txt-clr{
+	color:darkgray;
+}
+
+.orange-bg-clr{
+	background-color: #e96229;
+}
+
+.cbp-vm-add{
+	background-color: #5bbe74;
+	width:100%;
+	    margin: 0px;
+}
+
+.cbp-vm-add:hover{
+	background-color: #5bbe74;
+	width:100%;
+	    margin: 0px;
+	
+}
+
+.green-bg-clr{
+	background-color: #5bbe74 !important;
+	padding: 2px 0px;
+}
+
+.black-bg-clr{
+	background-color: #000000 !important;
+	padding: 2px 0px;
+}
+
+.green-txt-clr{
+	color: #5bbe74 !important;
+}
+
+input:focus{
+     outline: none;
+     }
+     
+.box-solid{
+	background-color:white;
+	position: relative;
+	border-radius: 5px;
+}
+
+.modal a {
+	color:white;
+	}
+	
+.box.box-info {
+    border-top-color: #5bbe74 !important;
+}
+
+.box.box-warning {
+    border-top-color: lightgray !important;
+}
+
+
+           /* for mobile */
+          @media only screen 
+			and (min-device-width : 250px) 
+			and (max-device-width : 768px)  {
+			
+/* 			#userInfoTable{ */
+/* 			  display:none; */
+/* 			} */
+			
+			
+			
+              }
+              
+              
+              /* for Pc */
+		 @media only screen 
+		and (min-device-width : 768px) 
+		and (max-device-width : 2000px)  {
+		
+		   
+		}
